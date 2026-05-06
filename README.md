@@ -33,15 +33,15 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=Chakshu-Bamotra&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.shion.dev/api?username=paridhijain153&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 <br>
 
-![](https://streak-stats.demolab.com/?user=Chakshu-Bamotra&theme=dark&hide_border=false)
+![](https://streak-stats.demolab.com/?user=paridhijain153&theme=dark&hide_border=false)
 
 <br>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Chakshu-Bamotra&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=paridhijain153&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br>
 
